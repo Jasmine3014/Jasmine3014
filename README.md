@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I’m Jasmine 
 
-<!--
-**Jasmine3014/Jasmine3014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👀 About Me
+- 🔭 I’m interested in **Java** and **Test Automation**.
+- 🌱 Currently learning **Selenium**,**Aquality-Selenium**, **Rest API**, **Database Testing** and exploring new possibilities in **Core Java**.
+- 💞️ Looking to collaborate on **Test Automation projects**.
+- 📫 How to reach me: **[jasmineakter3014@gmail.com](mailto:jasmineakter3014@gmail.com)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+### Programming
+- **Java**: OOP, collections, multithreading, exceptions.
+
+### Web Development
+- **HTML5**
+- **CSS3**
+- **Bootstrap 4**
+
+### Web Automation
+- **Selenium WebDriver**
+- **Aquality Framework**
+
+### Mobile Automation
+- **Appium**
+
+### API Testing
+- **Rest Assured**
+- **Postman**
+- **Newman**
+
+### Performance Testing
+- **JMeter**
+
+### Testing Approaches
+- **Data-Driven Testing**: Apache POI, TestNG.
+- **BDD**: Cucumber.
+
+### CI/CD & Reporting
+- **Jenkins**
+- **Allure**
+
+---
+
+## 🛠️ Other Tools
+- **BrowserStack**
+- **Checkstyle**
+- **Git & GitHub**
+
+---
+
+## 📖 Additional Knowledge
+- Networking and security principles.
+
+---
+
+⭐️ *Feel free to connect and collaborate with me on exciting projects!*
