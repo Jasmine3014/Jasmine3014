@@ -2,7 +2,7 @@
 
 ## 👀 About Me
 - 🔭 I’m interested in **Java** and **Test Automation**.
-- 🌱 Currently learning **Selenium**,**Playwright**,**Aquality-Selenium**, **Rest API**, **Database Testing** and exploring new possibilities in **Core Java**.
+- 🌱 Currently working **Selenium**, **Playwright**,**Rest API**, **Database Testing** and exploring new possibilities in **Core Java**.
 - 💞️ Looking to collaborate on **Test Automation projects**.
 - 📫 How to reach me: **[jasmineakter3014@gmail.com](mailto:jasmineakter3014@gmail.com)**
 
