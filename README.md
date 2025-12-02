@@ -9,7 +9,7 @@
 ## 🛠️ Skills
 -  Programming: Java (OOP, collections, multithreading, exceptions).
 - Web Development: HTML5, CSS3, Bootstrap 4, Javascript.
-- Web Automation: Selenium WebDriver, Aquality Framework.
+- Web Automation: Selenium WebDriver, Playwright , Aquality Framework.
 - Mobile Automation: Appium.
 - API Testing: Rest Assured, Postman, Newman.
 - Performance Testing: JMeter.
